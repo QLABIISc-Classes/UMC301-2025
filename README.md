@@ -1,4 +1,4 @@
-# DA 225o Deep Learning (Summer 2025)
+# UMC 301 Applied Data Science and Artificial Intelligence (AUG 2025)
 
 ## Course Description
 
